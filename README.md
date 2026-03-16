@@ -83,5 +83,5 @@ This project is licensed under the MIT License
 ---
 
 ## 👤 Author  
-Developed by **[Your Name]**  
-Connect with me on [LinkedIn](https://linkedin.com) or check out more projects on [GitHub](https://github.com/yourusername).
+Developed by abhishek 
+
